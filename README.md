@@ -1,9 +1,8 @@
 # megabox2023
 megabox site New
-
+미리보기:<a href="https://megaclone.netlify.app/">https://megaclone.netlify.app/</a> 
 <h1>메가박스 사이트 만들기(2023)</h1>
 <ul>
-  <li><a href="https://megaclone.netlify.app/">메가박스 사이트 바로가기</a></li>
   <li> 메가박스 사이트 만들기(2023) - 기본 셋팅</li>
   <li> 메가박스 사이트 만들기(2023) - 헤더 영역</li>
   <li> 메가박스 사이트 만들기(2023) - 배너 영역</li>
