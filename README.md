@@ -1,5 +1,5 @@
 # megabox2023
-megabox site New
+
 미리보기:<a href="https://megaclone.netlify.app/">https://megaclone.netlify.app/</a> 
 <h1>메가박스 사이트 만들기(2023)</h1>
 <ul>
